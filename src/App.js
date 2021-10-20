@@ -15,6 +15,7 @@ import Doctors from './components/Doctors/Doctors';
 import Faq from './components/FAQ/Faq';
 import BlogHome from './components/BlogHome/BlogHome';
 import MakeAppointment from './components/MakeAppointment/MakeAppointment';
+import Account from './components/Account/Account';
 
 
 
@@ -51,6 +52,10 @@ function App() {
 
             <PrivateRoute path="/doctor/:id">
               <MakeAppointment></MakeAppointment>
+            </PrivateRoute>
+
+            <PrivateRoute path="/account">
+              <Account></Account>
             </PrivateRoute>
 
             <Route path="/register">

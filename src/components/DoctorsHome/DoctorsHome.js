@@ -31,7 +31,7 @@ function DoctorAtHome ({ doctor }) {
 	const { id, name, degree, img, specialities, practice_days } = doctor;
 
 	return (
-		<Col xs={6} sm={4} md={3}>
+		<Col >
 			<Card style={{ width: '18rem' }}>
 				<Card.Img variant="top" src={img} />
 				<Card.Body>

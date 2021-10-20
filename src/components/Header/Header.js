@@ -26,6 +26,10 @@ const Header = () => {
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/covid19">covid19</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/gallery">gallery</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/faq">FAQ</Nav.Link>
+							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/report">Online Reporting</Nav.Link>
+							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/account">Account</Nav.Link>
+							
+
 							{!user.email && <Nav.Link activeStyle={activeStyle} as={NavLink} to="/login">Login</Nav.Link>}
 					{user.email && <button onClick={handleSignOut} className="btn btn-secondary">LogOut</button>}
 
