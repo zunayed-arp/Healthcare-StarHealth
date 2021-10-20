@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Star Health Services
+
+### Live Link: https://medical-services-e2bc2.web.app/
+
+## Our Services
+- All Kinds of Laboratory Test
+- Doctors Solution 
+- Online Report Management
+- Report Home Delivery
+- Vaccination and others services
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
