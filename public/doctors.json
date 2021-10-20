@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "Prof. Md. Mostafizur Rahman",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Chest Medicine",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	},
+	{
+		"id": 2,
+		"name": "ASSTT. PROF. DR. A.K.M. MASUDUR RAHMAN",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Chest Medicine",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	},
+	{
+		"id": 3,
+		"name": "PROF. DR. M. DELWAR HOSSAIN",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Chest Medicine",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	},
+	{
+		"id": 4,
+		"name": "DR. MD. NAZMUL HOQUE MASUM",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Colorectal Surgery",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	},
+	{
+		"id": 5,
+		"name": "DR. RASHIDUL ISLAM",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Colorectal Surgery",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	},
+	{
+		"id": 6,
+		"name": "ASSTT.PROF.DR. JAMAL E RABBY",
+		"degree": "MBBS, FCPS (Med), FRCP (UK), FCCP (USA)",
+		"specialities": "Colorectal Surgery",
+		"img": "https://i.ibb.co/410GCJr/doctor.jpg",
+		"practice_days": "Monday-Thursday"
+	}
+]

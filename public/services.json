@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "Gastroenterology",
+		"img": "https://i.ibb.co/DfZbLyL/gastrology.jpg",
+		"description": "Gastroenterology is the branch of medicine focused on the digestive system and its disorders. Diseases affecting the gastrointestinal tract, which include the organs from mouth into anus, along the alimentary canal, are the focus of this speciality.",
+		"price": 1200
+	},
+	{
+		"id": 2,
+		"name": "Cardiology",
+		"img": "https://i.ibb.co/K7LGLVK/Hypertension-abstract-concept-vector-illustration-Cardiological-problem-high-blood-pressure-measurin.jpg",
+		"description": "Cardiology is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart defects, coronary artery disease, heart failure, valvular heart disease and electrophysiology.",
+		"price": 2000
+	},
+	{
+		"id": 3,
+		"name": "Blood Test",
+		"img": "https://i.ibb.co/K7LGLVK/Hypertension-abstract-concept-vector-illustration-Cardiological-problem-high-blood-pressure-measurin.jpg",
+		"description": "A blood test is a laboratory analysis performed on a blood sample that is usually extracted from a vein in the arm using a hypodermic needle, or via fingerprick.",
+		"price": 2500
+	},
+	{
+		"id": 4,
+		"name": "MRI Testing",
+		"img": "https://i.ibb.co/jkKB7p9/Magnetic-resonance-imaging-tomography-MRI-The-doctor-is-explaining-to-the-patient-the-mri-scan-proce.jpg",
+		"description": "Magnetic resonance imaging of the brain uses magnetic resonance imaging to produce high quality two-dimensional or three-dimensional images of the brain and brainstem without the use of ionizing radiation or radioactive tracers.",
+		"price": 2200
+	},
+	{
+		"id": 5,
+		"name": "Neuro Surgery",
+		"img": "https://i.ibb.co/yYPyxd4/Medic-in-neuroscience-working-in-neurological-research-laboratory-developing-brain-experiment-holdin.jpg",
+		"description": "It is the medical specialty concerned with the diagnosis and treatment of of patients with injury to, or diseases/disorders of the brain, spinal cord and spinal column, and peripheral nerves within all parts of the body.",
+		"price": 1800
+	},
+	{
+		"id": 6,
+		"name": "Orthopedic",
+		"img": "https://i.ibb.co/qmr6FBR/Close-up-Of-A-Man-Wearing-Knee-Brace-Over-White-Background.jpg",
+		"description": "Orthopaedic surgery or orthopaedics, is the branch of surgery concerned with conditions involving the musculoskeletal system.",
+		"price": 3500
+	},
+	{
+		"id": 7,
+		"name": "Urology",
+		"img": "https://i.ibb.co/Yk8NLbm/kidney.jpg",
+		"description": "Urology, also known as genitourinary surgery, is the branch of medicine that focuses on surgical and medical diseases of the male and female urinary-tract system and the male reproductive organs.",
+		"price": 800
+	},
+	{
+		"id": 8,
+		"name": "Surgery",
+		"img": "https://i.ibb.co/S6TLby7/surgery.jpg",
+		"description": "Surgery is a medical or dental specialty that uses operative manual and instrumental techniques on a person to investigate or treat a pathological condition such as a disease or injury, to help improve bodily function, appearance, or to repair unwanted ruptured areas.",
+		"price": 10000
+	}
+]
