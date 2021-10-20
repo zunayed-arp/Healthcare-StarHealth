@@ -9,7 +9,7 @@ const MakeAppointment = () => {
 
 	return (
 		<div>
-			<h2>appointment{id} </h2>
+			<h2>Appointment Page is Under Maintennce </h2>
 			
 		</div>
 	);

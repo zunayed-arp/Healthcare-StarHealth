@@ -16,6 +16,9 @@ import Faq from './components/FAQ/Faq';
 import BlogHome from './components/BlogHome/BlogHome';
 import MakeAppointment from './components/MakeAppointment/MakeAppointment';
 import Account from './components/Account/Account';
+import OnlineReporting from './components/OnlineReporting/OnlineReporting';
+import Covid from './components/Covid/Covid';
+import Gallery from './components/Gallery/Gallery';
 
 
 
@@ -58,8 +61,20 @@ function App() {
               <Account></Account>
             </PrivateRoute>
 
+            <PrivateRoute path="/report">
+              <OnlineReporting></OnlineReporting>
+            </PrivateRoute>
+
             <Route path="/register">
               <Register></Register>
+            </Route>
+
+            <Route path="/covid">
+              <Covid></Covid>
+            </Route>
+
+            <Route path="/gallery">
+              <Gallery></Gallery>
             </Route>
 
             <Route path="*">

@@ -23,7 +23,7 @@ const Header = () => {
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/home">Home</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/doctors">Doctors</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/blog">Blog</Nav.Link>
-							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/covid19">covid19</Nav.Link>
+							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/covid">covid19</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/gallery">gallery</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/faq">FAQ</Nav.Link>
 							<Nav.Link activeStyle={activeStyle} as={NavLink} to="/report">Online Reporting</Nav.Link>
@@ -34,7 +34,7 @@ const Header = () => {
 					{user.email && <button onClick={handleSignOut} className="btn btn-secondary">LogOut</button>}
 
 						</Nav>
-						{user.email && <Navbar.Text>
+						{(user.email || user.displayName )&& <Navbar.Text>
 							Signed in as: {user.displayName}
 						</Navbar.Text>}
 					</Navbar.Collapse>

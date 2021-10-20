@@ -12,7 +12,7 @@ const Login = () => {
 
 	return (
 		<>
-			<section class="vh-100">
+			<section class="vh-100 pb-5">
 				<div class="container py-5 h-100">
 					<div class="row d-flex align-items-center justify-content-center h-100">
 						<div class="col-md-8 col-lg-7 col-xl-6">
